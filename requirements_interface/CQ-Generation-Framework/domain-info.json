@@ -1,0 +1,52 @@
+{
+  "MAIN_DOMAIN_NAME": "Building Damage and Construction Defects",
+  "TOPIC_TERMS": [
+    "Building Damage",
+    "Remediation Techniques",
+    "Construction Defects",
+    "Legal Proceedings",
+    "Damage Prevention",
+    "Expert Recommendations",
+    "Causal Effects",
+    "Damage Documentation",
+    "Building Assessment",
+    "Repair Strategies",
+    "Construction Norms",
+    "Damage Patterns",
+    "Foundation Problems",
+    "Structural Fatigue"
+  ],
+  "FILTER_KEYWORDS": [
+    "building",
+    "remediation",
+    "prevention",
+    "construction",
+    "defect",
+    "damage",
+    "analysis",
+    "legal",
+    "assessment",
+    "pattern",
+    "norms",
+    "repair",
+    "documentation",
+    "source",
+    "guidance"
+  ],
+  "MAIN_DOMAIN_WORDS": [
+    "building",
+    "construction",
+    "damage"
+  ],
+  "COMPOUND_GENERAL_TERMS": [
+    "Building Maintenance",
+    "Construction Defects"
+  ],
+  "ONTOLOGY_COVERAGE_AREAS": [
+    "Damage Analysis",
+    "Remediation Strategies",
+    "Legal Implications",
+    "Construction Standards",
+    "Damage Prevention"
+  ]
+}

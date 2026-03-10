@@ -1,0 +1,58 @@
+ARTICLE COLLECTION SUMMARY
+==================================================
+
+Total Articles Collected: 8
+Total Input Tokens: 3258
+Generated on: 2025-10-21 21:53:32
+
+ARTICLES DETAILS:
+------------------------------
+
+Article 1:
+  Title: Regression analysis of PEM fuel cell transient response
+  URL: https://link.springer.com/content/pdf/10.1007/s40095-016-0209-1.pdf
+  Text Length: 41648 characters
+  Filter Keywords Found: 19
+
+Article 2:
+  Title: Behavioural study of PEMFC during start-up/shutdown cycling for aeronautic applications
+  URL: https://link.springer.com/content/pdf/10.1007/s40243-019-0141-4.pdf
+  Text Length: 33402 characters
+  Filter Keywords Found: 17
+
+Article 3:
+  Title: Ultra-low loading of platinum in proton exchange membrane-based fuel cells: a brief review
+  URL: https://link.springer.com/content/pdf/10.1007/s40243-019-0156-x.pdf
+  Text Length: 76408 characters
+  Filter Keywords Found: 23
+
+Article 4:
+  Title: Modifying Carbon Supports of Catalyst for the Oxygen Reduction Reaction in Vehicle PEMFCs
+  URL: https://link.springer.com/content/pdf/10.1007/s42154-021-00149-x.pdf
+  Text Length: 48537 characters
+  Filter Keywords Found: 21
+
+Article 5:
+  Title: Preparation of Pt electrocatalyst supported by novel, Ti(1−x)MoxO2-C type of composites containing multi-layer graphene
+  URL: https://link.springer.com/content/pdf/10.1007/s11144-021-02138-x.pdf
+  Text Length: 63423 characters
+  Filter Keywords Found: 21
+
+Article 6:
+  Title: Rational Design of Ruddlesden–Popper Perovskite Ferrites as Air Electrode for Highly Active and Durable Reversible Protonic Ceramic Cells
+  URL: https://link.springer.com/content/pdf/10.1007/s40820-024-01397-2.pdf
+  Text Length: 65886 characters
+  Filter Keywords Found: 16
+
+Article 7:
+  Title: Enhanced performance and durability of sealing gasket for polymer electrolyte membrane fuel cells and water electrolyzer by C–C coupling of functionalized 2D boron nitride nanoflakes
+  URL: https://link.springer.com/content/pdf/10.1007/s42114-025-01449-0.pdf
+  Text Length: 72798 characters
+  Filter Keywords Found: 20
+
+Article 8:
+  Title: Interface model of PEM fuel cell membrane steady-state behavior
+  URL: https://link.springer.com/content/pdf/10.1007/s40095-018-0288-2.pdf
+  Text Length: 95879 characters
+  Filter Keywords Found: 21
+

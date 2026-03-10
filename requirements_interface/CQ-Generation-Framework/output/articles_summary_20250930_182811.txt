@@ -1,0 +1,190 @@
+ARTICLE COLLECTION SUMMARY
+==================================================
+
+Total Articles Collected: 30
+Total Input Tokens: 15131
+Generated on: 2025-09-30 18:28:11
+
+ARTICLES DETAILS:
+------------------------------
+
+Article 1:
+  Title: Speech based detection of Alzheimer’s disease: a survey of AI techniques, datasets and challenges
+  URL: https://link.springer.com/content/pdf/10.1007/s10462-024-10961-6.pdf
+  Text Length: 140737 characters
+  Filter Keywords Found: 13
+
+Article 2:
+  Title: Objective measurement of gait parameters in healthy and cognitively impaired elderly using the dual-task paradigm
+  URL: https://link.springer.com/content/pdf/10.1007/s40520-016-0703-6.pdf
+  Text Length: 43274 characters
+  Filter Keywords Found: 14
+
+Article 3:
+  Title: Clinical Assessment of Brain Disorders
+  URL: https://link.springer.com/content/pdf/10.1007/978-1-0716-3195-9_7.pdf
+  Text Length: 59259 characters
+  Filter Keywords Found: 18
+
+Article 4:
+  Title: Artificial Intelligence for Cognitive Health Assessment: State-of-the-Art, Open Challenges and Future Directions
+  URL: https://link.springer.com/content/pdf/10.1007/s12559-023-10153-4.pdf
+  Text Length: 238757 characters
+  Filter Keywords Found: 18
+
+Article 5:
+  Title: Comparison of clinical and neuropathological diagnoses of neurodegenerative diseases in two centres from the Brains for Dementia Research (BDR) cohort
+  URL: https://link.springer.com/content/pdf/10.1007/s00702-018-01967-w.pdf
+  Text Length: 44515 characters
+  Filter Keywords Found: 7
+
+Article 6:
+  Title: Sensor-based fall risk assessment in older adults with or without cognitive impairment: a systematic review
+  URL: https://link.springer.com/content/pdf/10.1186/s11556-021-00266-w.pdf
+  Text Length: 69769 characters
+  Filter Keywords Found: 14
+
+Article 7:
+  Title: Protocol for the Brain Health Support Program Study of the Canadian Therapeutic Platform Trial for Multidomain Interventions to Prevent Dementia (CAN-THUMBS UP): A Prospective 12-Month Intervention St
+  URL: https://link.springer.com/content/pdf/10.14283/jpad.2023.65.pdf
+  Text Length: 62207 characters
+  Filter Keywords Found: 14
+
+Article 8:
+  Title: The influence of culture and cognitive reserve on the clinical presentation of behavioural-variant frontotemporal dementia
+  URL: https://link.springer.com/content/pdf/10.1007/s00415-023-11638-w.pdf
+  Text Length: 53013 characters
+  Filter Keywords Found: 13
+
+Article 9:
+  Title: Assessment of Parkinsonian gait in older adults with dementia via human pose tracking in video data
+  URL: https://link.springer.com/content/pdf/10.1186/s12984-020-00728-9.pdf
+  Text Length: 46127 characters
+  Filter Keywords Found: 10
+
+Article 10:
+  Title: The Associations Between Neuropsychiatric Symptoms and Cognition in People with Dementia: A Systematic Review and Meta-Analysis
+  URL: https://link.springer.com/content/pdf/10.1007/s11065-023-09608-0.pdf
+  Text Length: 74949 characters
+  Filter Keywords Found: 12
+
+Article 11:
+  Title: Enriched gardens improve cognition and independence of nursing home residents with dementia: a pilot controlled trial
+  URL: https://link.springer.com/content/pdf/10.1186/s13195-021-00849-w.pdf
+  Text Length: 39424 characters
+  Filter Keywords Found: 10
+
+Article 12:
+  Title: Altered metabolic connectivity within the limbic cortico-striato-thalamo-cortical circuit in presymptomatic and symptomatic behavioral variant frontotemporal dementia
+  URL: https://link.springer.com/content/pdf/10.1186/s13195-022-01157-7.pdf
+  Text Length: 49320 characters
+  Filter Keywords Found: 7
+
+Article 13:
+  Title: The potential of depressive symptoms to identify cognitive impairment in ageing
+  URL: https://link.springer.com/content/pdf/10.1007/s10433-025-00837-1.pdf
+  Text Length: 54117 characters
+  Filter Keywords Found: 9
+
+Article 14:
+  Title: Hydroxytryptamine transporter gene-linked polymorphic region (5HTTLPR) is associated with delusions in Alzheimer’s disease
+  URL: https://link.springer.com/content/pdf/10.1186/s40035-019-0144-1.pdf
+  Text Length: 50374 characters
+  Filter Keywords Found: 11
+
+Article 15:
+  Title: Visual hallucinations in Lewy body disease: pathophysiological insights from phenomenology
+  URL: https://link.springer.com/content/pdf/10.1007/s00415-022-10983-6.pdf
+  Text Length: 78563 characters
+  Filter Keywords Found: 9
+
+Article 16:
+  Title: Quality of life, cognitive and behavioural impairment in people with motor neuron disease: a systematic review
+  URL: https://link.springer.com/content/pdf/10.1007/s11136-024-03611-5.pdf
+  Text Length: 64686 characters
+  Filter Keywords Found: 11
+
+Article 17:
+  Title: Assessment of innovative living and care arrangements for persons with dementia: a systematic review
+  URL: https://link.springer.com/content/pdf/10.1186/s12877-023-04187-4.pdf
+  Text Length: 96617 characters
+  Filter Keywords Found: 16
+
+Article 18:
+  Title: Mobility assessment in people with Alzheimer disease using smartphone sensors
+  URL: https://link.springer.com/content/pdf/10.1186/s12984-019-0576-y.pdf
+  Text Length: 44292 characters
+  Filter Keywords Found: 10
+
+Article 19:
+  Title: Depth-based interactive assistive system for dementia care
+  URL: https://link.springer.com/content/pdf/10.1007/s12652-024-04865-0.pdf
+  Text Length: 57716 characters
+  Filter Keywords Found: 12
+
+Article 20:
+  Title: A pragmatic randomised controlled trial (RCT) and realist evaluation of the interdisciplinary home-bAsed Reablement program (I-HARP) for improving functional independence of community dwelling older p
+  URL: https://link.springer.com/content/pdf/10.1186/s12877-019-1216-x.pdf
+  Text Length: 72884 characters
+  Filter Keywords Found: 11
+
+Article 21:
+  Title: The motor prodromes of parkinson’s disease: from bedside observation to large-scale application
+  URL: https://link.springer.com/content/pdf/10.1007/s00415-019-09642-0.pdf
+  Text Length: 51680 characters
+  Filter Keywords Found: 11
+
+Article 22:
+  Title: Self-testing for symptoms and signs of prodromal alpha-synucleinopathies: results from the Tasmanian ISLAND Sleep Study
+  URL: https://link.springer.com/content/pdf/10.1007/s11357-025-01757-9.pdf
+  Text Length: 79717 characters
+  Filter Keywords Found: 17
+
+Article 23:
+  Title: Parkinson’s disease: current assessment methods and wearable devices for evaluation of movement disorder motor symptoms - a patient and healthcare professional perspective
+  URL: https://link.springer.com/content/pdf/10.1186/s12883-020-01996-7.pdf
+  Text Length: 71553 characters
+  Filter Keywords Found: 14
+
+Article 24:
+  Title: Impact of social and mobility restrictions in Parkinson’s disease during COVID-19 lockdown
+  URL: https://link.springer.com/content/pdf/10.1186/s12883-021-02364-9.pdf
+  Text Length: 43977 characters
+  Filter Keywords Found: 13
+
+Article 25:
+  Title: Objective and automatic classification of Parkinson disease with Leap Motion controller
+  URL: https://link.springer.com/content/pdf/10.1186/s12938-018-0600-7.pdf
+  Text Length: 70086 characters
+  Filter Keywords Found: 12
+
+Article 26:
+  Title: Parkinson’s disease multimodal complex treatment improves gait performance: an exploratory wearable digital device-supported study
+  URL: https://link.springer.com/content/pdf/10.1007/s00415-022-11257-x.pdf
+  Text Length: 93099 characters
+  Filter Keywords Found: 14
+
+Article 27:
+  Title: A systematic review protocol of timing, efficacy and cost effectiveness of upper limb therapy for motor recovery post-stroke
+  URL: https://link.springer.com/content/pdf/10.1186/s13643-019-1093-6.pdf
+  Text Length: 39389 characters
+  Filter Keywords Found: 7
+
+Article 28:
+  Title: Timing control of gait: a study of essential tremor patients vs. age-matched controls
+  URL: https://link.springer.com/content/pdf/10.1186/s40673-016-0043-5.pdf
+  Text Length: 37780 characters
+  Filter Keywords Found: 11
+
+Article 29:
+  Title: In Parkinson’s disease, dual-tasking reduces gait smoothness during the straight-walking and turning-while-walking phases of the Timed Up and Go test
+  URL: https://link.springer.com/content/pdf/10.1186/s13102-025-01068-8.pdf
+  Text Length: 81380 characters
+  Filter Keywords Found: 12
+
+Article 30:
+  Title: The relationship between spatiotemporal gait parameters and cognitive function in healthy adults: protocol for a cross-sectional study
+  URL: https://link.springer.com/content/pdf/10.1186/s40814-022-01122-z.pdf
+  Text Length: 61591 characters
+  Filter Keywords Found: 14
+

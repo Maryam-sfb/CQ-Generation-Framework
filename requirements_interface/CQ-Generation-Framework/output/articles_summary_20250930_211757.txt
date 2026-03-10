@@ -1,0 +1,100 @@
+ARTICLE COLLECTION SUMMARY
+==================================================
+
+Total Articles Collected: 15
+Total Input Tokens: 7163
+Generated on: 2025-09-30 21:17:57
+
+ARTICLES DETAILS:
+------------------------------
+
+Article 1:
+  Title: Common structural and construction deficiencies of Nepalese buildings
+  URL: https://link.springer.com/content/pdf/10.1007/s41062-016-0001-3.pdf
+  Text Length: 50240 characters
+  Filter Keywords Found: 10
+
+Article 2:
+  Title: A Deep Learning Application for Building Damage Assessment Using Ultra-High-Resolution Remote Sensing Imagery in Turkey Earthquake
+  URL: https://link.springer.com/content/pdf/10.1007/s13753-023-00526-6.pdf
+  Text Length: 52891 characters
+  Filter Keywords Found: 8
+
+Article 3:
+  Title: Damage observations of RC buildings from 2023 Kahramanmaraş earthquake sequence and discussion on the seismic code regulations
+  URL: https://link.springer.com/content/pdf/10.1007/s10518-023-01843-3.pdf
+  Text Length: 70605 characters
+  Filter Keywords Found: 9
+
+Article 4:
+  Title: AttentionPoolMobileNeXt: An automated construction damage detection model based on a new convolutional neural network and deep feature engineering models
+  URL: https://link.springer.com/content/pdf/10.1007/s11042-024-19163-2.pdf
+  Text Length: 56099 characters
+  Filter Keywords Found: 9
+
+Article 5:
+  Title: Risk-based cost-benefit analysis of climate adaptation measures for Australian contemporary houses under extreme winds
+  URL: https://link.springer.com/content/pdf/10.1186/s43065-020-00002-1.pdf
+  Text Length: 68315 characters
+  Filter Keywords Found: 9
+
+Article 6:
+  Title: Damage and Repair of Tall Timber Buildings
+  URL: https://link.springer.com/content/pdf/10.1007/978-3-032-02098-7_13.pdf
+  Text Length: 70688 characters
+  Filter Keywords Found: 12
+
+Article 7:
+  Title: Quantifying the realized and unrealized benefits of seismic interventions using causal inference
+  URL: https://link.springer.com/content/pdf/10.1007/s11069-025-07531-6.pdf
+  Text Length: 94027 characters
+  Filter Keywords Found: 8
+
+Article 8:
+  Title: Pre- and post-simulations of shake-table tests on a stone masonry building aggregate using finite-discrete elements
+  URL: https://link.springer.com/content/pdf/10.1007/s10518-022-01550-5.pdf
+  Text Length: 58268 characters
+  Filter Keywords Found: 9
+
+Article 9:
+  Title: AI-empowered digital twin modeling for high-precision building defect management integrating UAV and GeoBIM
+  URL: https://link.springer.com/content/pdf/10.1007/s12273-025-1332-9.pdf
+  Text Length: 111569 characters
+  Filter Keywords Found: 12
+
+Article 10:
+  Title: Impact of inadequate column performance and repair techniques on the seismic performance of RC buildings
+  URL: https://link.springer.com/content/pdf/10.1007/s44290-025-00253-5.pdf
+  Text Length: 60749 characters
+  Filter Keywords Found: 9
+
+Article 11:
+  Title: Assessment of Existing Structures for Elongation of the Buildings Lifecycle Based on Ukrainian Experience and Codes
+  URL: https://link.springer.com/content/pdf/10.1007/978-3-031-57800-7_13.pdf
+  Text Length: 30442 characters
+  Filter Keywords Found: 8
+
+Article 12:
+  Title: Observations from the 26th November 2019 Albania earthquake: the earthquake engineering field investigation team (EEFIT) mission
+  URL: https://link.springer.com/content/pdf/10.1007/s10518-021-01062-8.pdf
+  Text Length: 90197 characters
+  Filter Keywords Found: 8
+
+Article 13:
+  Title: Live Digital Twin for Hydraulic Structures Fatigue Estimation
+  URL: https://link.springer.com/content/pdf/10.1007/978-981-19-6138-0_43.pdf
+  Text Length: 27836 characters
+  Filter Keywords Found: 8
+
+Article 14:
+  Title: Investigation on Acoustic Emission Parameters due to Fatigue Damage of Concrete Beams with Variable Notched Depth
+  URL: https://link.springer.com/content/pdf/10.1186/s40069-022-00518-8.pdf
+  Text Length: 59565 characters
+  Filter Keywords Found: 8
+
+Article 15:
+  Title: Enhanced image processing and storage for defect evaluation in BIM of inspected steel bridges
+  URL: https://link.springer.com/content/pdf/10.1007/s44290-025-00164-5.pdf
+  Text Length: 84682 characters
+  Filter Keywords Found: 11
+

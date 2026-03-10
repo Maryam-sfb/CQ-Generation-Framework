@@ -1,0 +1,172 @@
+ARTICLE COLLECTION SUMMARY
+==================================================
+
+Total Articles Collected: 27
+Total Input Tokens: 10410
+Generated on: 2025-11-17 23:15:24
+
+ARTICLES DETAILS:
+------------------------------
+
+Article 1:
+  Title: Modeling the Aging Behavior of the Catalyst Layer in PEM Fuel Cells
+  URL: https://link.springer.com/content/pdf/10.1007/978-3-031-88831-1_11.pdf
+  Text Length: 28594 characters
+  Filter Keywords Found: 14
+
+Article 2:
+  Title: Understanding and resolving the heterogeneous degradation of anion exchange membrane water electrolysis for large-scale hydrogen production
+  URL: https://link.springer.com/content/pdf/10.1007/s43979-024-00101-y.pdf
+  Text Length: 117995 characters
+  Filter Keywords Found: 23
+
+Article 3:
+  Title: Review of the Application of Metal-Supported Solid Oxide Fuel Cell in the Transportation Field
+  URL: https://link.springer.com/content/pdf/10.1007/s42154-024-00316-w.pdf
+  Text Length: 166503 characters
+  Filter Keywords Found: 26
+
+Article 4:
+  Title: Preparation and Characterization of SPEEK–PVA Blend Membrane Additives with Colloidal Silica for Proton Exchange Membrane Fuel Cell
+  URL: https://link.springer.com/content/pdf/10.1007/s10924-024-03263-z.pdf
+  Text Length: 77658 characters
+  Filter Keywords Found: 18
+
+Article 5:
+  Title: Monitoring the curing, degradation and moisture ingress into alkyl 2-cyanoacrylate adhesives using electrochemical impedance spectroscopy
+  URL: https://link.springer.com/content/pdf/10.1007/s10008-024-06003-4.pdf
+  Text Length: 53529 characters
+  Filter Keywords Found: 18
+
+Article 6:
+  Title: Engineering Fe-N4 Electronic Structure with Adjacent Co-N2C2 and Co Nanoclusters on Carbon Nanotubes for Efficient Oxygen Electrocatalysis
+  URL: https://link.springer.com/content/pdf/10.1007/s40820-023-01195-2.pdf
+  Text Length: 56168 characters
+  Filter Keywords Found: 16
+
+Article 7:
+  Title: Carbon aerogel supported Ni–Fe catalysts for superior oxygen evolution reaction activity
+  URL: https://link.springer.com/content/pdf/10.1007/s42823-024-00730-4.pdf
+  Text Length: 79485 characters
+  Filter Keywords Found: 15
+
+Article 8:
+  Title: Optimizing performance of ultra-thin gas diffusion layer-less PEMFCs via tailored transition layer thickness between catalyst and metal foam
+  URL: https://link.springer.com/content/pdf/10.1007/s43979-025-00145-8.pdf
+  Text Length: 50822 characters
+  Filter Keywords Found: 20
+
+Article 9:
+  Title: Platinum-Based Catalysts on Various Carbon Supports and Conducting Polymers for Direct Methanol Fuel Cell Applications: a Review
+  URL: https://link.springer.com/content/pdf/10.1186/s11671-018-2799-4.pdf
+  Text Length: 131665 characters
+  Filter Keywords Found: 23
+
+Article 10:
+  Title: Durability test with fuel starvation using a Pt/CNF catalyst in PEMFC
+  URL: https://link.springer.com/content/pdf/10.1186/1556-276X-7-34.pdf
+  Text Length: 24868 characters
+  Filter Keywords Found: 17
+
+Article 11:
+  Title: Ultra-low loading of platinum in proton exchange membrane-based fuel cells: a brief review
+  URL: https://link.springer.com/content/pdf/10.1007/s40243-019-0156-x.pdf
+  Text Length: 76408 characters
+  Filter Keywords Found: 22
+
+Article 12:
+  Title: Processing of pristine carbon nanotube supported platinum as catalyst for PEM fuel cell
+  URL: https://link.springer.com/content/pdf/10.1007/s40243-014-0036-3.pdf
+  Text Length: 37300 characters
+  Filter Keywords Found: 16
+
+Article 13:
+  Title: Cathode Design for Proton Exchange Membrane Fuel Cells in Automotive Applications
+  URL: https://link.springer.com/content/pdf/10.1007/s42154-021-00148-y.pdf
+  Text Length: 112967 characters
+  Filter Keywords Found: 24
+
+Article 14:
+  Title: Enhanced stability of symmetrical polymer electrolyte membrane fuel cell single cells based on novel hierarchical microporous-mesoporous carbon supports
+  URL: https://link.springer.com/content/pdf/10.1007/s10008-016-3448-4.pdf
+  Text Length: 43289 characters
+  Filter Keywords Found: 22
+
+Article 15:
+  Title: Nanocomposite polyphenyleneoxide with amino-functionalized silica: structural characterization based on thermal analysis
+  URL: https://link.springer.com/content/pdf/10.1007/s10973-024-13422-y.pdf
+  Text Length: 38187 characters
+  Filter Keywords Found: 15
+
+Article 16:
+  Title: A Novel Approach to Structure/Property Relations in Inhomogeneous Porous Media with High and Low Porosity
+  URL: https://link.springer.com/content/pdf/10.1007/s11242-025-02180-6.pdf
+  Text Length: 62025 characters
+  Filter Keywords Found: 12
+
+Article 17:
+  Title: Behavioural study of PEMFC during start-up/shutdown cycling for aeronautic applications
+  URL: https://link.springer.com/content/pdf/10.1007/s40243-019-0141-4.pdf
+  Text Length: 33402 characters
+  Filter Keywords Found: 17
+
+Article 18:
+  Title: PGM-Free Biomass-Derived Electrocatalysts for Oxygen Reduction in Energy Conversion Devices: Promising Materials
+  URL: https://link.springer.com/content/pdf/10.1007/s41918-023-00197-3.pdf
+  Text Length: 240754 characters
+  Filter Keywords Found: 20
+
+Article 19:
+  Title: Development of multiwalled carbon nanotubes platinum nanocomposite as efficient PEM fuel cell catalyst
+  URL: https://link.springer.com/content/pdf/10.1007/s40243-015-0066-5.pdf
+  Text Length: 37894 characters
+  Filter Keywords Found: 17
+
+Article 20:
+  Title: Advancements in nanocarbon-based catalysts for enhanced fuel cell performance: a comprehensive review
+  URL: https://link.springer.com/content/pdf/10.1007/s42108-024-00324-w.pdf
+  Text Length: 99897 characters
+  Filter Keywords Found: 22
+
+Article 21:
+  Title: Electrocatalytic Oxygen Reduction in Alkaline Medium at Graphene-Supported Silver-Iron Carbon Nitride Sites Generated During Thermal Decomposition of Silver Hexacyanoferrate
+  URL: https://link.springer.com/content/pdf/10.1007/s12678-018-0501-3.pdf
+  Text Length: 54627 characters
+  Filter Keywords Found: 18
+
+Article 22:
+  Title: Real-time monitoring of proton exchange membrane fuel cell stack failure
+  URL: https://link.springer.com/content/pdf/10.1007/s10800-016-0995-4.pdf
+  Text Length: 29221 characters
+  Filter Keywords Found: 20
+
+Article 23:
+  Title: Modeling of solid oxide fuel cells
+  URL: https://link.springer.com/content/pdf/10.1007/s11434-016-1150-7.pdf
+  Text Length: 9025 characters
+  Filter Keywords Found: 14
+
+Article 24:
+  Title: Advancements and challenges in corrosion-resistant coatings for metallic bipolar plates: enhancing durability and sustainability in proton exchange membrane fuel cells
+  URL: https://link.springer.com/content/pdf/10.1007/s44251-025-00100-w.pdf
+  Text Length: 115465 characters
+  Filter Keywords Found: 23
+
+Article 25:
+  Title: Development of an ejector for passive hydrogen recirculation in PEM fuel cell systems by applying 2D CFD simulation
+  URL: https://link.springer.com/content/pdf/10.1007/s41104-023-00133-z.pdf
+  Text Length: 68399 characters
+  Filter Keywords Found: 24
+
+Article 26:
+  Title: Regression analysis of PEM fuel cell transient response
+  URL: https://link.springer.com/content/pdf/10.1007/s40095-016-0209-1.pdf
+  Text Length: 41648 characters
+  Filter Keywords Found: 18
+
+Article 27:
+  Title: Advanced Electrode Structures for Proton Exchange Membrane Fuel Cells: Current Status and Path Forward
+  URL: https://link.springer.com/content/pdf/10.1007/s41918-023-00208-3.pdf
+  Text Length: 195931 characters
+  Filter Keywords Found: 24
+

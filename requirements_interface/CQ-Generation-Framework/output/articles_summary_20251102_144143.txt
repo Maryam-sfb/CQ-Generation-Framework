@@ -1,0 +1,16 @@
+ARTICLE COLLECTION SUMMARY
+==================================================
+
+Total Articles Collected: 1
+Total Input Tokens: 508
+Generated on: 2025-11-02 14:41:43
+
+ARTICLES DETAILS:
+------------------------------
+
+Article 1:
+  Title: Enhanced stability of symmetrical polymer electrolyte membrane fuel cell single cells based on novel hierarchical microporous-mesoporous carbon supports
+  URL: https://link.springer.com/content/pdf/10.1007/s10008-016-3448-4.pdf
+  Text Length: 43289 characters
+  Filter Keywords Found: 12
+

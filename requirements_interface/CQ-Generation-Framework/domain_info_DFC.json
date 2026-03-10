@@ -1,0 +1,73 @@
+{
+  "MAIN_DOMAIN_NAME": "PEM fuel cell degradation mechanisms and performance analysis",
+  "TOPIC_TERMS": [
+    "catalyst degradation mechanisms",
+    "local potential measurement",
+    "reaction signal extraction",
+    "fuel cell durability",
+    "operating state transfer",
+    "catalyst deactivation reversal",
+    "degradation processes",
+    "EIS analysis",
+    "DRT analysis",
+    "AI pattern recognition",
+    "synthetic data validation",
+    "carbon-doped titanium dioxide",
+    "catalyst support materials",
+    "thermal degradation",
+    "thermal gradients",
+    "aging processes",
+    "dynamic loads",
+    "air-fuel supply",
+    "performance metrics",
+    "electrochemical characterization"
+  ],
+  "FILTER_KEYWORDS": [
+    "PEMFC",
+    "fuel cell",
+    "degradation",
+    "catalyst",
+    "durability",
+    "efficiency",
+    "EIS",
+    "DRT",
+    "AI",
+    "pattern recognition",
+    "synthetic data",
+    "titanium dioxide",
+    "carbon black",
+    "thermal",
+    "gradients",
+    "aging",
+    "stack",
+    "dynamic loading",
+    "supply management",
+    "compressor",
+    "performance",
+    "electrochemical",
+    "MEA",
+    "materials",
+    "synthesis",
+    "characterization",
+    "operating conditions",
+    "mitigation strategies"
+  ],
+  "MAIN_DOMAIN_WORDS": [
+    "PEMFC",
+    "degradation",
+    "performance"
+  ],
+  "COMPOUND_GENERAL_TERMS": [
+    "PEMFC degradation mechanisms",
+    "fuel cell performance analysis"
+  ],
+  "ONTOLOGY_COVERAGE_AREAS": [
+    "catalyst degradation mechanisms",
+    "electrochemical measurement techniques",
+    "potential and signal analysis",
+    "fuel cell durability factors",
+    "operational state transfer methods",
+    "catalyst deactivation reversal",
+    "performance degradation processes"
+  ]
+}

@@ -1,0 +1,166 @@
+ARTICLE COLLECTION SUMMARY
+==================================================
+
+Total Articles Collected: 26
+Total Input Tokens: 9085
+Generated on: 2025-10-21 18:31:21
+
+ARTICLES DETAILS:
+------------------------------
+
+Article 1:
+  Title: Advancements in nanocarbon-based catalysts for enhanced fuel cell performance: a comprehensive review
+  URL: https://link.springer.com/content/pdf/10.1007/s42108-024-00324-w.pdf
+  Text Length: 99897 characters
+  Filter Keywords Found: 35
+
+Article 2:
+  Title: Recent Advances on PEM Fuel Cells: From Key Materials to Membrane Electrode Assembly
+  URL: https://link.springer.com/content/pdf/10.1007/s41918-023-00190-w.pdf
+  Text Length: 173546 characters
+  Filter Keywords Found: 38
+
+Article 3:
+  Title: Advanced Electrode Structures for Proton Exchange Membrane Fuel Cells: Current Status and Path Forward
+  URL: https://link.springer.com/content/pdf/10.1007/s41918-023-00208-3.pdf
+  Text Length: 195931 characters
+  Filter Keywords Found: 35
+
+Article 4:
+  Title: Real-time monitoring of proton exchange membrane fuel cell stack failure
+  URL: https://link.springer.com/content/pdf/10.1007/s10800-016-0995-4.pdf
+  Text Length: 29221 characters
+  Filter Keywords Found: 32
+
+Article 5:
+  Title: Local Impact of Pt Nanodeposits on Ionomer Decomposition in Polymer Electrolyte Membranes
+  URL: https://link.springer.com/content/pdf/10.1007/s12678-017-0353-2.pdf
+  Text Length: 35492 characters
+  Filter Keywords Found: 26
+
+Article 6:
+  Title: Understanding and resolving the heterogeneous degradation of anion exchange membrane water electrolysis for large-scale hydrogen production
+  URL: https://link.springer.com/content/pdf/10.1007/s43979-024-00101-y.pdf
+  Text Length: 117995 characters
+  Filter Keywords Found: 35
+
+Article 7:
+  Title: A Review of Rechargeable Zinc–Air Batteries: Recent Progress and Future Perspectives
+  URL: https://link.springer.com/content/pdf/10.1007/s40820-024-01328-1.pdf
+  Text Length: 186664 characters
+  Filter Keywords Found: 34
+
+Article 8:
+  Title: Recent Advances of Electrocatalyst and Cell Design for Hydrogen Peroxide Production
+  URL: https://link.springer.com/content/pdf/10.1007/s40820-023-01044-2.pdf
+  Text Length: 138588 characters
+  Filter Keywords Found: 29
+
+Article 9:
+  Title: Electroanalysis based on stand-alone matrices and electrode-modifying films with silica sol-gel frameworks: a review
+  URL: https://link.springer.com/content/pdf/10.1007/s10008-020-04697-w.pdf
+  Text Length: 77983 characters
+  Filter Keywords Found: 26
+
+Article 10:
+  Title: Silicon–air batteries: progress, applications and challenges
+  URL: https://link.springer.com/content/pdf/10.1007/s42452-020-2925-7.pdf
+  Text Length: 67151 characters
+  Filter Keywords Found: 28
+
+Article 11:
+  Title: Two-Phase Flow in Porous Electrodes of Proton Exchange Membrane Fuel Cell
+  URL: https://link.springer.com/content/pdf/10.1007/s12209-020-00239-7.pdf
+  Text Length: 57792 characters
+  Filter Keywords Found: 28
+
+Article 12:
+  Title: Overcoming the Electrode Challenges of High-Temperature Proton Exchange Membrane Fuel Cells
+  URL: https://link.springer.com/content/pdf/10.1007/s41918-023-00180-y.pdf
+  Text Length: 197391 characters
+  Filter Keywords Found: 35
+
+Article 13:
+  Title: Electrochemical study of temperature and Nafion effects on interface property for oxygen reduction reaction
+  URL: https://link.springer.com/content/pdf/10.1007/s11581-018-2533-3.pdf
+  Text Length: 40929 characters
+  Filter Keywords Found: 27
+
+Article 14:
+  Title: Removal of ammonia from leachate by using thermophilic microbial fuel cells equipped with membrane electrode
+  URL: https://link.springer.com/content/pdf/10.1186/s42834-020-0045-0.pdf
+  Text Length: 32350 characters
+  Filter Keywords Found: 20
+
+Article 15:
+  Title: Nonlinear distributed-parameter observer design for efficient estimation of internal temperature profiles in polymer electrolyte membrane fuel cells
+  URL: https://link.springer.com/content/pdf/10.1007/s11071-025-11108-0.pdf
+  Text Length: 93892 characters
+  Filter Keywords Found: 32
+
+Article 16:
+  Title: Activation of bimetallic PtFe nanoparticles with zeolite-type cesium salts of vanadium-substituted polyoxometallates toward electroreduction of oxygen at low Pt loadings for fuel cells
+  URL: https://link.springer.com/content/pdf/10.1007/s10008-021-05088-5.pdf
+  Text Length: 56728 characters
+  Filter Keywords Found: 35
+
+Article 17:
+  Title: Nanostructured Pd-Based Electrocatalyst and Membrane Electrode Assembly Behavior in a Passive Direct Glycerol Fuel Cell
+  URL: https://link.springer.com/content/pdf/10.1186/s11671-019-2871-8.pdf
+  Text Length: 59239 characters
+  Filter Keywords Found: 31
+
+Article 18:
+  Title: Enhanced electrochemical performance and thermomechanical stability of nafion/sulfonated clay-carbon nanotube nanocomposite membranes for high-performance fuel cells under challenging conditions
+  URL: https://link.springer.com/content/pdf/10.1007/s40243-025-00325-7.pdf
+  Text Length: 55446 characters
+  Filter Keywords Found: 28
+
+Article 19:
+  Title: Probing the Efficiency of PPMG-Based Composite Electrolytes for Applications of Proton Exchange Membrane Fuel Cell
+  URL: https://link.springer.com/content/pdf/10.1007/s12209-024-00396-z.pdf
+  Text Length: 87358 characters
+  Filter Keywords Found: 32
+
+Article 20:
+  Title: Research progress on components and design variables in electrochemical hydrogen compressor: an analytical review
+  URL: https://link.springer.com/content/pdf/10.1007/s40243-025-00323-9.pdf
+  Text Length: 146729 characters
+  Filter Keywords Found: 37
+
+Article 21:
+  Title: Behavioural study of PEMFC during start-up/shutdown cycling for aeronautic applications
+  URL: https://link.springer.com/content/pdf/10.1007/s40243-019-0141-4.pdf
+  Text Length: 33402 characters
+  Filter Keywords Found: 31
+
+Article 22:
+  Title: Design of Membrane Electrode Assembly with Non-precious Metal Catalyst for Self-humidifying Proton Exchange Membrane Fuel Cell
+  URL: https://link.springer.com/content/pdf/10.1007/978-981-99-8631-6_39.pdf
+  Text Length: 24356 characters
+  Filter Keywords Found: 25
+
+Article 23:
+  Title: Ultra-low loading of platinum in proton exchange membrane-based fuel cells: a brief review
+  URL: https://link.springer.com/content/pdf/10.1007/s40243-019-0156-x.pdf
+  Text Length: 76408 characters
+  Filter Keywords Found: 32
+
+Article 24:
+  Title: Modifying Carbon Supports of Catalyst for the Oxygen Reduction Reaction in Vehicle PEMFCs
+  URL: https://link.springer.com/content/pdf/10.1007/s42154-021-00149-x.pdf
+  Text Length: 48537 characters
+  Filter Keywords Found: 32
+
+Article 25:
+  Title: Recent advances on support materials for enhanced Pt-based catalysts: applications in oxygen reduction reactions for electrochemical energy storage
+  URL: https://link.springer.com/content/pdf/10.1007/s10853-025-10606-1.pdf
+  Text Length: 108600 characters
+  Filter Keywords Found: 33
+
+Article 26:
+  Title: Modelling and simulation of the electro-chemo-thermo-mechanical behaviour of solid oxide fuel cells considering creep
+  URL: https://link.springer.com/content/pdf/10.1007/s00707-025-04334-5.pdf
+  Text Length: 65911 characters
+  Filter Keywords Found: 29
+

@@ -1,0 +1,34 @@
+ARTICLE COLLECTION SUMMARY
+==================================================
+
+Total Articles Collected: 4
+Total Input Tokens: 1684
+Generated on: 2025-10-21 21:30:57
+
+ARTICLES DETAILS:
+------------------------------
+
+Article 1:
+  Title: Behavioural study of PEMFC during start-up/shutdown cycling for aeronautic applications
+  URL: https://link.springer.com/content/pdf/10.1007/s40243-019-0141-4.pdf
+  Text Length: 33402 characters
+  Filter Keywords Found: 15
+
+Article 2:
+  Title: Ultra-low loading of platinum in proton exchange membrane-based fuel cells: a brief review
+  URL: https://link.springer.com/content/pdf/10.1007/s40243-019-0156-x.pdf
+  Text Length: 76408 characters
+  Filter Keywords Found: 18
+
+Article 3:
+  Title: Modifying Carbon Supports of Catalyst for the Oxygen Reduction Reaction in Vehicle PEMFCs
+  URL: https://link.springer.com/content/pdf/10.1007/s42154-021-00149-x.pdf
+  Text Length: 48537 characters
+  Filter Keywords Found: 17
+
+Article 4:
+  Title: Preparation of Pt electrocatalyst supported by novel, Ti(1−x)MoxO2-C type of composites containing multi-layer graphene
+  URL: https://link.springer.com/content/pdf/10.1007/s11144-021-02138-x.pdf
+  Text Length: 63423 characters
+  Filter Keywords Found: 18
+
