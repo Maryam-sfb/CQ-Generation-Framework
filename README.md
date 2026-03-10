@@ -1,2 +1,4 @@
 # CQ-Generation-Framework
 An LLM-powered framework for Competency Question generation, refinement, filtering and clustering.
+Competency Questions play a central role in ontology engineering by defining the functional requirements that an ontology should
+satisfy. However, eliciting high-quality competency questions typically requires extensive collaboration between ontology engineers and domain experts, making the process time-consuming and difficult to scale. This project presents an LLM-powered framework for competency question generation. The framework integrates structured domain expert input with the retrieval of scholarly literature and leverages large language models to generate, refine, filter, and cluster the questions. The proposed system reduces the dependency on continuous expert involvement while maintaining high question quality.
