@@ -45,7 +45,7 @@ if openai.api_version:
 
 
 # ========== Load domain information from JSON ==========
-def load_domain_config(config_path: str = "domain-info.json") -> Dict:
+def load_domain_config(config_path: str = "json_input/domain-info.json") -> Dict:
     """
     Load domain configuration from JSON file.
     """
@@ -56,7 +56,7 @@ def load_domain_config(config_path: str = "domain-info.json") -> Dict:
         print(f"Error: {config_path} not found.")
         return {}
 
-domain_config = load_domain_config("domain-info.json")
+domain_config = load_domain_config("json_input/domain-info.json")
 MAIN_DOMAIN_NAME = domain_config.get("MAIN_DOMAIN_NAME", "unknown")  # fallback value
 print(f"[DEBUG] Domain loaded: {MAIN_DOMAIN_NAME}")
 

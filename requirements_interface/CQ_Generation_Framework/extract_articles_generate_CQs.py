@@ -132,7 +132,7 @@ def is_english(text: str, min_chars: int = 300) -> bool:
 
 
 # ========== Load domain information from JSON ==========
-def load_domain_config(config_path: str = "domain-info.json") -> Dict:
+def load_domain_config(config_path: str = "json_input/domain-info.json") -> Dict:
     """
     Load domain configuration from JSON file.
     """

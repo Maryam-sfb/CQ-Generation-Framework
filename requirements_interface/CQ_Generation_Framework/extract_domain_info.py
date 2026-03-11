@@ -41,7 +41,7 @@ if openai.api_version:
     setattr(openai, "api_version", openai.api_version)
 
 # ========== Load Expert Scope ==========
-with open("scope-expert.json", "r", encoding="utf-8") as f:
+with open("json_input/scope-expert.json", "r", encoding="utf-8") as f:
     scope_json = json.load(f)
 
 scope_text = "\n".join(item["response"] for item in scope_json)
@@ -176,7 +176,7 @@ except json.JSONDecodeError:
 
 # ========== Save Output ==========
 # Save JSON
-with open("domain-info.json", "w", encoding="utf-8") as f:
+with open("json_input/domain-info.json", "w", encoding="utf-8") as f:
     json.dump(domain_info, f, indent=2)
 
 # Convert to DataFrame with all values in one sheet

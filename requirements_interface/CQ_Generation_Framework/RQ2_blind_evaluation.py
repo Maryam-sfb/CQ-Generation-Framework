@@ -32,7 +32,7 @@ print("=" * 70)
 print("LOADING DOMAIN INFORMATION")
 print("=" * 70)
 
-with open('domain_info_DFC.json', 'r') as f:
+with open('json_input/domain_info_DFC.json', 'r') as f:
     domain_info = json.load(f)
 
 print(f"\nMain Domain: {domain_info['MAIN_DOMAIN_NAME']}")
@@ -50,8 +50,8 @@ print("=" * 70)
 # ============================================================================
 # LOAD AND CLEAN CQs
 # ============================================================================
-expert_df = pd.read_excel('DFC_CQs.xlsx')
-generated_df = pd.read_excel('LLM_generated_DFC_CQs.xlsx')
+expert_df = pd.read_excel("evaluation_input/DFC_CQs.xlsx")
+generated_df = pd.read_excel("evaluation_input/LLM_generated_DFC_CQs.xlsx")
 
 print("\nExpert columns:", expert_df.columns.tolist())
 print("Generated columns:", generated_df.columns.tolist())

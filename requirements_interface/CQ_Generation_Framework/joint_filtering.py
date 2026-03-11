@@ -68,7 +68,7 @@ COMPLEXITY_WEIGHT = float(os.getenv("COMPLEXITY_WEIGHT", 0.3))  # 30% weight to 
 FINAL_THRESHOLD = float(os.getenv("FINAL_THRESHOLD", 0.5))
 
 # ========== Load Domain Info ==========
-domain_info_file = Path(__file__).resolve().parent / "revised_DFC_domain_info.json"
+domain_info_file = Path(__file__).resolve().parent / "json_input/revised_DFC_domain_info.json"
 with open(domain_info_file, "r", encoding="utf-8") as f:
     domain_info = json.load(f)
 
