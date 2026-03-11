@@ -7,7 +7,6 @@ SCRIPTS = [
     "extract_articles_generate_CQs.py",
     "refinement.py",
     "joint_filtering.py",
-    "seq_filtering.py",
 ]
 
 def run_pipeline():
