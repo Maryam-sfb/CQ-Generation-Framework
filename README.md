@@ -13,6 +13,9 @@ and clustering.
 Several Python libraries have been used to develop the pipeline, including spaCy for text processing, langdetect for language identification of scholarly articles, sentence-transformers and scikit-learn for calculating the semantic similarity of CQs, SciPy for data analysis, and other common libraries such as pandas and NumPy.
 
 ## Usage
-1. Copy `.env-sample` to a new file named `.env` in the `CQ_Generation_Framework` folder and fill in the required keys.
-2. Open `json_input/scope-expert.json` and replace the existing answers with your own domain scoping responses to the four questions.
-3. Run the pipeline: `python run_pipeline.py`.
+1. Install the required dependencies: ```pip install -r requirements.txt```
+2. Copy `.env-sample` to a new file named `.env` in the `CQ_Generation_Framework` folder and fill in the required keys.
+3. Open `json_input/scope-expert.json` and replace the existing answers with your own domain scoping responses to the four questions.
+4. Run the pipeline: `python run_pipeline.py`
+
+> **Note:** The pipeline requires valid API keys for Azure OpenAI (GPT-4o-mini) and SerpAPI.
