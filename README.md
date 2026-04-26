@@ -11,3 +11,9 @@ GPT-5 was utilized for Domain information extraction for higher precision. All A
 and clustering. 
 
 Several Python libraries have been used to develop the pipeline, including spaCy for text processing, langdetect for language identification of scholarly articles, sentence-transformers and scikit-learn for calculating the semantic similarity of CQs, SciPy for data analysis, and other common libraries such as pandas and NumPy.
+
+## Usage
+1. ## Usage
+1. Copy `.env-sample` to a new file named `.env` in the `CQ_Generation_Framework` folder and fill in the required keys.
+2. Open `json_input/scope-expert.json` and replace the existing answers with your own domain scoping responses to the four questions.
+3. Run the pipeline: `python run_pipeline.py`.
