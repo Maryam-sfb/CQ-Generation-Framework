@@ -19,3 +19,39 @@ Several Python libraries have been used to develop the pipeline, including spaCy
 4. Run the pipeline: `python run_pipeline.py`
 
 > **Note:** The pipeline requires valid API keys for Azure OpenAI (GPT-4o-mini) and SerpAPI.
+
+## Framework Execution Guide
+
+The framework is implemented as a series of modular Python scripts 
+that form an automated sequential pipeline. All outputs are saved 
+in the `output/` folder and passed automatically as inputs to 
+subsequent stages based on the most recent timestamp.
+
+### Pipeline Scripts
+
+1. **`extract_domain_info.py`**
+   - Purpose: Extracts structured domain information from expert input
+   - Input: `json_input/scope-expert.json`
+   - Output: `json_input/domain-info.json`, `output/domain_info.xlsx`
+
+2. **`extract_articles.py`**
+   - Purpose: Retrieves and filters scholarly articles, extracts snippets
+   - Input: `json_input/domain-info.json`
+   - Output: `output/llm_input_springer_[datetime].xlsx`,
+             `output/articles_summary_[datetime].txt`
+
+3. **`generate_cqs.py`**
+   - Purpose: Generates Competency Questions from article snippets
+   - Input: `output/llm_input_springer_[datetime].xlsx` (latest)
+   - Output: Appends `CQs` sheet to same Excel file
+
+4. **`refinement.py`**
+   - Purpose: Abstracts named entities in CQs to enhance reusability
+   - Input: `output/llm_input_springer_[datetime].xlsx` (latest)
+   - Output: `output/refined_cqs_springer_[datetime].xlsx`
+
+5. **`joint_filtering.py`**
+   - Purpose: Removes redundancy, scores relevance, filters by 
+     linguistic complexity
+   - Input: `output/refined_cqs_springer_[datetime].xlsx` (latest)
+   - Output: `output/joint_filtered_cqs_[datetime].xlsx`
