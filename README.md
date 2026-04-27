@@ -55,3 +55,5 @@ subsequent stages based on the most recent timestamp.
      linguistic complexity
    - Input: `output/refined_cqs_springer_[datetime].xlsx` (latest)
    - Output: `output/joint_filtered_cqs_[datetime].xlsx`
+  
+> **Note:** The current implementation is using gpt-4o-mini across all steps, including extract_domain_info.py. However, in our research, we used GPT-5 for domain information extraction to achieve higher precision. If you plan to use a model other than GPT-4o-mini for this step (which is recommended), make sure to update the relevant files accordingly.
