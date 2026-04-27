@@ -3,16 +3,8 @@ from openai import AzureOpenAI
 import json
 import os
 from time import sleep
-from pathlib import Path
-from dotenv import load_dotenv
 from scipy import stats
-
-
-# Load your environment variables
-def load_environment_variables() -> None:
-    dotenv_path = Path(__file__).resolve().parent.parent / ".env"
-    load_dotenv(dotenv_path=dotenv_path)
-
+from utils import load_environment_variables
 
 load_environment_variables()
 

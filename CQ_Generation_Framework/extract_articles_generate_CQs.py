@@ -1,22 +1,22 @@
-import os
 import time
 import re
 import json
 import spacy
 import datetime
 import io
-import openai
 import requests
 import tiktoken
-from pathlib import Path
 from dataclasses import dataclass
 from typing import List, Tuple, Optional, Dict
 import pandas as pd
 from newspaper import Article
 from serpapi import GoogleSearch
-from dotenv import load_dotenv
 from langdetect import detect
 from urllib.parse import urlparse
+from utils import load_environment_variables, initialize_clients
+
+load_environment_variables()
+deployment_name, serpapi_api_key = initialize_clients()
 
 # ========== Setup & Helpers ==========
 MIN_TEXT_CHARS = 1500
@@ -33,19 +33,6 @@ def lemmatized_tokens(text: str, max_chars: int = 8000) -> set:
 def estimate_tokens(text, model="gpt-4o"):
     enc = tiktoken.encoding_for_model(model)
     return len(enc.encode(text))
-
-def load_environment_variables() -> None:
-    dotenv_path = Path(__file__).resolve().parent.parent / ".env"
-    load_dotenv(dotenv_path=dotenv_path)
-
-load_environment_variables()
-
-openai.api_key = os.getenv("OPENAI_API_KEY_4o")
-openai.api_type = os.getenv("OPENAI_API_TYPE_4o")
-openai.api_version = os.getenv("OPENAI_API_VERSION_4o")
-openai.azure_endpoint = os.getenv("OPENAI_API_BASE_4o")
-deployment_name = os.getenv("DEPLOYMENT_NAME_4o") or "gpt-4o"
-serpapi_api_key = os.getenv("SERPAPI_API_KEY")
 
 if openai.azure_endpoint:
     setattr(openai, "api_base", openai.azure_endpoint)
