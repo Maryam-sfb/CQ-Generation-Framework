@@ -1,3 +1,5 @@
+import openai
+from pathlib import Path
 import re
 import json
 import pandas as pd

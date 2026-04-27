@@ -1,3 +1,4 @@
+import openai
 import json
 import pandas as pd
 from utils import load_environment_variables, initialize_clients

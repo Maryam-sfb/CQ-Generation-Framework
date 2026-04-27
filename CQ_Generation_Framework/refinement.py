@@ -1,8 +1,10 @@
 import json
+import openai
 import pandas as pd
 from time import sleep
 from datetime import datetime
 from typing import Dict
+from pathlib import Path
 from utils import load_environment_variables, initialize_clients
 
 load_environment_variables()
