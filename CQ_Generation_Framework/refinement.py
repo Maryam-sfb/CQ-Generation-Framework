@@ -8,7 +8,7 @@ from pathlib import Path
 from utils import load_environment_variables, initialize_clients
 
 load_environment_variables()
-deployment_name, serpapi_api_key = initialize_clients(debug=False)
+deployment_name, serpapi_api_key = initialize_clients()
 
 # ========== Load domain information from JSON ==========
 def load_domain_config(config_path: str = "json_input/domain-info.json") -> Dict:

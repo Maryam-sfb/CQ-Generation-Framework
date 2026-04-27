@@ -5,7 +5,7 @@ from scipy import stats
 from utils import load_environment_variables, initialize_clients
 
 load_environment_variables()
-deployment_name, serpapi_api_key = initialize_clients(debug=False)
+deployment_name, serpapi_api_key = initialize_clients()
 
 # ============================================================================
 # LOAD DOMAIN INFORMATION FROM JSON

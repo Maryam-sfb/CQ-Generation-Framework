@@ -1,4 +1,5 @@
 import openai
+import os
 from pathlib import Path
 import re
 import json
@@ -12,7 +13,7 @@ from datetime import datetime
 from utils import load_environment_variables, initialize_clients
 
 load_environment_variables()
-deployment_name, serpapi_api_key = initialize_clients(debug=False)
+deployment_name, serpapi_api_key = initialize_clients()
 
 # Initialize local models
 embedding_model = SentenceTransformer('all-mpnet-base-v2')
