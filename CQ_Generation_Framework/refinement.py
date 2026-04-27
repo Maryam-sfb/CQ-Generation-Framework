@@ -6,26 +6,7 @@ from typing import Dict
 from utils import load_environment_variables, initialize_clients
 
 load_environment_variables()
-deployment_name, serpapi_api_key = initialize_clients()
-
-print("[DEBUG] OpenAI ENV loaded:")
-print("KEY:", bool(openai.api_key))
-print("BASE:", openai.azure_endpoint)
-print("DEPLOYMENT:", deployment_name)
-
-openai.api_key = openai.api_key
-
-if openai.azure_endpoint:
-    setattr(openai, "api_base", openai.azure_endpoint)  # avoid mypy attr error
-
-if openai.api_type:
-    if openai.api_type not in ("openai", "azure"):
-        raise ValueError(f"Invalid OPENAI_API_TYPE_4o value: {openai.api_type}")
-    setattr(openai, "api_type", openai.api_type)
-
-if openai.api_version:
-    setattr(openai, "api_version", openai.api_version)
-
+deployment_name, serpapi_api_key = initialize_clients(debug=False)
 
 # ========== Load domain information from JSON ==========
 def load_domain_config(config_path: str = "json_input/domain-info.json") -> Dict:

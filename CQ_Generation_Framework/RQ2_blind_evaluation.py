@@ -1,21 +1,11 @@
 import pandas as pd
-from openai import AzureOpenAI
 import json
-import os
 from time import sleep
 from scipy import stats
-from utils import load_environment_variables
+from utils import load_environment_variables, initialize_clients
 
 load_environment_variables()
-
-# Initialize Azure OpenAI client
-client = AzureOpenAI(
-    api_key=os.getenv("OPENAI_API_KEY_4o"),
-    api_version=os.getenv("OPENAI_API_VERSION_4o"),
-    azure_endpoint=os.getenv("OPENAI_API_BASE_4o")
-)
-
-deployment_name = os.getenv("DEPLOYMENT_NAME_4o") or "gpt-4o"
+deployment_name, serpapi_api_key = initialize_clients(debug=False)
 
 # ============================================================================
 # LOAD DOMAIN INFORMATION FROM JSON

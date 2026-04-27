@@ -16,7 +16,7 @@ from urllib.parse import urlparse
 from utils import load_environment_variables, initialize_clients
 
 load_environment_variables()
-deployment_name, serpapi_api_key = initialize_clients()
+deployment_name, serpapi_api_key = initialize_clients(debug=False)
 
 # ========== Setup & Helpers ==========
 MIN_TEXT_CHARS = 1500
@@ -33,15 +33,6 @@ def lemmatized_tokens(text: str, max_chars: int = 8000) -> set:
 def estimate_tokens(text, model="gpt-4o"):
     enc = tiktoken.encoding_for_model(model)
     return len(enc.encode(text))
-
-if openai.azure_endpoint:
-    setattr(openai, "api_base", openai.azure_endpoint)
-if openai.api_type:
-    if openai.api_type not in ("openai", "azure"):
-        raise ValueError(f"Invalid OPENAI_API_TYPE_4o value: {openai.api_type}")
-    setattr(openai, "api_type", openai.api_type)
-if openai.api_version:
-    setattr(openai, "api_version", openai.api_version)
 
 SYSTEM_PROMPT = "You are ChatGPT, a helpful assistant."
 MAX_TOKENS_GEN = 8000   # Output size
