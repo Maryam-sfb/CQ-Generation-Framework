@@ -1,44 +1,10 @@
-import os
+import openai
 import json
 import pandas as pd
-from dotenv import load_dotenv
-from pathlib import Path
-import openai
-
-# ========== Load Environment Variables ==========
-def load_environment_variables() -> None:
-    """
-    Load environment variables from the .env file.
-    """
-    dotenv_path = Path(__file__).resolve().parent.parent / ".env"
-    load_dotenv(dotenv_path=dotenv_path)
+from utils import load_environment_variables, initialize_clients
 
 load_environment_variables()
-
-openai.api_key = os.getenv("OPENAI_API_KEY_5")
-openai.api_type = os.getenv("OPENAI_API_TYPE_5")
-openai.api_version = os.getenv("OPENAI_API_VERSION_5")
-openai.azure_endpoint = os.getenv("OPENAI_API_BASE_5")
-deployment_name = os.getenv("DEPLOYMENT_NAME_5") or "gpt-5"
-serpapi_api_key = os.getenv("SERPAPI_API_KEY")
-
-print("[DEBUG] OpenAI ENV loaded:")
-print("KEY:", bool(openai.api_key))
-print("BASE:", openai.azure_endpoint)
-print("DEPLOYMENT:", deployment_name)
-
-openai.api_key = openai.api_key
-
-if openai.azure_endpoint:
-    setattr(openai, "api_base", openai.azure_endpoint)  # avoid mypy attr error
-
-if openai.api_type:
-    if openai.api_type not in ("openai", "azure"):
-        raise ValueError(f"Invalid OPENAI_API_TYPE_4o value: {openai.api_type}")
-    setattr(openai, "api_type", openai.api_type)
-
-if openai.api_version:
-    setattr(openai, "api_version", openai.api_version)
+deployment_name, serpapi_api_key = initialize_clients()
 
 # ========== Load Expert Scope ==========
 with open("json_input/scope-expert.json", "r", encoding="utf-8") as f:
@@ -82,26 +48,26 @@ From this, extract and return a JSON object with the following keys:
 An example for the Domain of "Building damage and construction defect analysis" is as below:
 
 Input:
-[{
+[{{
   "question": "Describe the knowledge domain or subject area in two to three sentences.",
   "response": "The knowledge domain or subject area includes description and documentation of damages to buildings, including corresponding explanations and determination of causal effects. Recommendations for remediation and prevention should also be included. The basis for the ontology should consist of real-world damage cases."
-},
-{
+}},
+{{
 "question": "Who is the intended audience for the created knowledge system and who will work with it in the future?",
 "response": "The intended users of the created knowledge system are experts in construction who deal with damage analysis, remediation, repair, and prevention in the context of the building industry. Architects and surveyors/experts in the field of construction. Additionally, lawyers (attorneys and judges) will use the data if a damage case is subject to legal proceedings. Beyond that, the data serves as a resource and learning material for anyone looking to further educate their expertise in this field."
-},
-  {
+}},
+  {{
     "question": "Name specific problems in the subject area that are to be addressed by the knowledge system.",
     "response": "The database is the central point of contact for specific real-world examples and the current state of the art for the development, prevention and remediation of damage and defects in building construction, both for the assessment of damage patterns in buildings and for the new construction and implementation of necessary measures regarding buildings."
-  },
-  {
+  }},
+  {{
     "question": "Describe some use cases of the knowledge system in short sentences.",
     "response": "The use-cases of the knowledge system are as below: The knowledge system should include specific documents and sources related to explicit queries and present relevant content in a structured and understandable manner. If a defect appears in a building, a damage expert should be able to search the database for relevant content referencing the current state of the art in the field and applicable norms. Ideally, they will find a description of a similar damage scenario from past reports and guidance on how to prevent or remedy such defects."
-  }
+  }}
 ]
 
 Output:
-{
+{{
   "MAIN_DOMAIN_NAME": "Building Damage and Construction Defects",
   "TOPIC_TERMS": [
     "Building Damage",
@@ -152,7 +118,7 @@ Output:
     "Construction Standards",
     "Damage Prevention"
   ]
-}
+}}
 
 Return ONLY valid JSON in the following format:
 {{
@@ -190,6 +156,6 @@ for key, values in domain_info.items():
     data[key] = padded
 
 df = pd.DataFrame(data)
-df.to_excel("domain_info.xlsx", sheet_name="DomainInfo", index=False)
+df.to_excel("output/domain_info.xlsx", sheet_name="DomainInfo", index=False)
 
 print("\nExtracted domain info saved to domain-info.json and domain_info.xlsx")

@@ -1,0 +1,16 @@
+ARTICLE COLLECTION SUMMARY
+==================================================
+
+Total Articles Collected: 1
+Total Input Tokens: 430
+Generated on: 2026-04-27 13:21:05
+
+ARTICLES DETAILS:
+------------------------------
+
+Article 1:
+  Title: Enhanced image processing and storage for defect evaluation in BIM of inspected steel bridges - Discover Civil Engineering
+  URL: https://link.springer.com/content/pdf/10.1007/s44290-025-00164-5.pdf
+  Text Length: 84682 characters
+  Filter Keywords Found: 23
+
