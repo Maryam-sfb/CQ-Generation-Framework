@@ -1,0 +1,29 @@
+{
+  "@context": [
+    "https://doi.org/10.5063/schema/codemeta-2.0",
+    {
+      "hermes": "https://software-metadata.pub/ns/hermes/"
+    }
+  ],
+  "@type": "SoftwareSourceCode",
+  "author": [
+    {
+      "@id": "https://orcid.org/0009-0008-7998-3965",
+      "@type": "Person",
+      "familyName": "Sefidbari",
+      "givenName": "Maryam"
+    }
+  ],
+  "datePublished": "2026-03-09",
+  "keywords": [
+    "ontology engineering",
+    "large language models",
+    "competency questions",
+    "requirements elicitation",
+    "ontology validation"
+  ],
+  "license": "https://spdx.org/licenses/MIT",
+  "name": "CQ-Generation-Framework",
+  "url": "https://github.com/Maryam-sfb/CQ-Generation-Framework",
+  "version": "1.0.0"
+}
