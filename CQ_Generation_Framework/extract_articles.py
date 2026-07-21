@@ -289,7 +289,7 @@ def fetch_fulltext_articles(required_count: int = 30) -> List[Dict]:
                     if any(term in lower for term in MAIN_DOMAIN_WORDS):
                         keyword_count = sum(
                             1 for k in FILTER_KEYWORDS if k in lower)
-                        if keyword_count >= 7:
+                        if keyword_count >= 5:
                             if is_english(text):
                                 article_lemmas = lemmatized_tokens(text)
                                 matched_terms = []
