@@ -7,6 +7,9 @@ authors:
   - family-names: "Sefidbari"
     given-names: "Maryam"
     orcid: "https://orcid.org/0009-0008-7998-3965"
+  - family-names:"Castro"
+    given-names: "Leyla Jael"
+    orcid: "https://orcid.org/0000-0003-3986-0510"
 
 date-released: 2026-03-09
 license: "MIT"
